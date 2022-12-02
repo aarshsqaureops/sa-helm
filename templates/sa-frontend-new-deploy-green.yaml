@@ -22,7 +22,7 @@ spec:
         app: sa-frontend
     spec:
       containers:
-        - image: aarshsquareops/sentiment-analysis-frontend:v3
+        - image: aarshsquareops/frontapp-test:latest-12
           imagePullPolicy: Always
           name: sa-frontend
           ports:
