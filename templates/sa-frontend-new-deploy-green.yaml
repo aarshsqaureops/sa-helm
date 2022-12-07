@@ -22,7 +22,7 @@ spec:
         app: sa-frontend
     spec:
       containers:
-        - image: aarshsquareops/frontapp-test:latest
+        - image: {{ .Values.frontapp.image }}
           imagePullPolicy: Always
           name: sa-frontend
           ports:
