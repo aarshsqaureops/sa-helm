@@ -1,0 +1,2 @@
+frontapp:
+  image: aarshsquareops/frontapp-test:latest-${BUILD_NUMBER}
