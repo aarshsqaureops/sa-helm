@@ -1,2 +1,2 @@
 frontapp:
-  image: aarshsquareops/frontapp-test:latest-${BUILD_NUMBER}
+  image: aarshsqaureops/frontapp-test:latest-24

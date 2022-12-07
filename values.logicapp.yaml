@@ -1,2 +1,2 @@
 logicapp:
-  image: aarshsquareops/logicapp-test:latest-${BUILD_NUMBER}
+  image: aarshsqaureops/logicapp-test:latest-24

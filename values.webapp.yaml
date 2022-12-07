@@ -1,2 +1,2 @@
 webapp:
-  image: aarshsquareops/webapp-test:latest-${BUILD_NUMBER}
+  image: aarshsqaureops/webapp-test:latest-24
