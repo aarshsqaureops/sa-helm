@@ -1,2 +1,2 @@
 webapp:
-  image: aarshsquareops/webapp-test:latest-35
+  image: aarshsquareops/webapp-test:latest-36
